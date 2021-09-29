@@ -37,7 +37,7 @@
                          <a class="nav-link dropdown-toggle text-primary" href="#" id="navbarDropdown" role="button" data-bs-toggle="dropdown" aria-expanded="false">
                          Rubriques
                          </a>
-                         <ul class="dropdown-menu bg-light text-center" aria-labelledby="navbarDropdown">
+                         <ul class="dropdown-menu bg-light text-center text-primary" aria-labelledby="navbarDropdown">
                          <li><a class="dropdown-item" href="#">Sport</a></li>
                          <li><a class="dropdown-item" href="#">Musique</a></li>
                          <li><a class="dropdown-item" href="#">Zoom Sur</a></li>
